@@ -7,7 +7,7 @@ import {
 
 
 import ListaCars from '../pages/ListaCars';
-import Cadastrar from '../pages/Cadastrar';
+import Cadastrar from '../pages/cadastrar';
 import NotFound from '../pages/NotFound';
 import ListAdminC from '../pages/Listadmin';
  
